@@ -29,11 +29,13 @@ Criar barras de código em produtos
 
 ### **Prerequisitos**
 
-- xxxx
+- [Python 3](https://www.python.org/) ou superior instalado
+- [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html)
 
 ### **Instalação**
 
-1. xxxx
+1. Inicialize o ambiente `py -m venv .venv`
+2. Ative o ambiente `. .venv/Scripts/activate` para windows ou `source .venv/bin/activate` para unix/macosx
 
 ## Como contribuir
 
