@@ -25,6 +25,8 @@ Criar barras de código em produtos
 
 - [x] Pylint
 - [x] pre-commit
+- [x] Flask
+- [x] barcode
 
 ## Começando
 
@@ -37,10 +39,7 @@ Criar barras de código em produtos
 
 1. Inicialize o ambiente `py -m venv .venv`
 2. Ative o ambiente `. .venv/Scripts/activate` para windows ou `source .venv/bin/activate` para unix/macosx
-
-## Como contribuir
-
-- xxxxx
+3. rode `py src/run_raw.py`
 
 ## Contribuidores
 
