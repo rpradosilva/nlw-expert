@@ -23,7 +23,8 @@ Criar barras de código em produtos
 
 ## Features
 
-- [x] xxxx
+- [x] Pylint
+- [x] pre-commit
 
 ## Começando
 
