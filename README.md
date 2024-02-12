@@ -29,6 +29,7 @@ Criar barras de código em produtos
 - [x] Barcode
 - [x] Postman
 - [x] Cerberus
+- [x] pytest
 
 ## Começando
 
