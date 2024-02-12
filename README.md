@@ -26,8 +26,9 @@ Criar barras de código em produtos
 - [x] Pylint
 - [x] pre-commit
 - [x] Flask
-- [x] barcode
+- [x] Barcode
 - [x] Postman
+- [x] Cerberus
 
 ## Começando
 
